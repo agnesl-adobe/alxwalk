@@ -7,13 +7,27 @@
   position: relative;
   padding: 40px 24px;
   min-height: 300px;
-}
-
-.hero h1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1em;
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.hero h1 {
+  margin: 0;
   color: var(--background-color);
+}
+
+.hero .button-container {
+  margin: 0;
+}
+
+.hero .button-container .button {
+  margin: 0;
 }
 
 .hero picture {
