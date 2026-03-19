@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://https://author-p179457-e1900808.adobeaemcloud.com/bin/franklin.delivery/<agnesl-adobe>/<alxwalk>/main"
+    url: "https://https://author-p179457-e1900808.adobeaemcloud.com/bin/franklin.delivery/agnesl-adobe/alxwalk/main"
     type: "markup"
     suffix: ".html"
